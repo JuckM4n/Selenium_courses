@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import math
 
-#Open site in browse
+#Open site in browser
 link = "http://suninjuly.github.io/get_attribute.html"
 browser = webdriver.Chrome()
 browser.get(link)
