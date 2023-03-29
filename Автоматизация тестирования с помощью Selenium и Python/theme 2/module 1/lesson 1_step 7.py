@@ -25,7 +25,7 @@ checkbox.click()
 radio = browser.find_element(By.CSS_SELECTOR, "input#robotsRule")
 radio.click()
     
-#Press submit butto
+#Press submit button
 button = browser.find_element(By.CSS_SELECTOR, "button.btn")
 
 button.click()
